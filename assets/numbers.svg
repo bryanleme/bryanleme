@@ -15,35 +15,35 @@
     @keyframes dot { to { opacity: 1; } }
     @media (prefers-reduced-motion: reduce) { * { animation: none !important; opacity: 1 !important; transform: none !important; stroke-dashoffset: 0 !important; } }
   </style>
-  <rect width="1000" height="250" rx="18" fill="#0f0b08"/>
-  <rect x="0.5" y="0.5" width="999" height="249" rx="18" fill="none" stroke="#2c2119"/>
+  <rect width="1000" height="250" rx="20" fill="#0c1230"/>
+  <rect x="0.5" y="0.5" width="999" height="249" rx="20" fill="none" stroke="#2a3366"/>
 
   <!-- 1: ganhos -->
   <g class="rise t1">
-    <text class="mono" x="40" y="52" font-size="12" letter-spacing="2" fill="#9b8c7e">GANHOS VALIDADOS</text>
-    <text class="sans" x="40" y="112" font-size="48" font-weight="700" fill="#efe6dc" letter-spacing="-1">R$ 7 mi</text>
-    <text class="sans" x="40" y="140" font-size="14" fill="#9b8c7e">revisão de rotas, calculada</text>
-    <text class="sans" x="40" y="160" font-size="14" fill="#9b8c7e">numa simulação própria</text>
-    <path class="line" d="M40 214 L90 204 L140 208 L190 184 L230 170" fill="none" stroke="#ff9a3c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text class="mono" x="40" y="52" font-size="12" letter-spacing="2" fill="#9aa6d6">GANHOS VALIDADOS</text>
+    <text class="sans" x="40" y="112" font-size="48" font-weight="700" fill="#ffffff" letter-spacing="-1">R$ 7 mi</text>
+    <text class="sans" x="40" y="140" font-size="14" fill="#9aa6d6">revisão de rotas, calculada</text>
+    <text class="sans" x="40" y="160" font-size="14" fill="#9aa6d6">numa simulação própria</text>
+    <path class="line" d="M40 214 L90 204 L140 208 L190 184 L230 170" fill="none" stroke="#ff8a3d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
 
   <!-- 2: coleta -->
   <g class="rise t2">
-    <text class="mono" x="290" y="52" font-size="12" letter-spacing="2" fill="#9b8c7e">COLETA DE DADOS</text>
-    <text class="sans" x="290" y="112" font-size="48" font-weight="700" fill="#efe6dc" letter-spacing="-1">40 → 2</text>
-    <text class="sans" x="290" y="140" font-size="14" fill="#9b8c7e">minutos por etapa, agora</text>
-    <text class="sans" x="290" y="160" font-size="14" fill="#9b8c7e">sem trabalho manual</text>
-    <rect x="290" y="190" width="190" height="10" rx="5" fill="#2c2119"/>
-    <rect class="shrink" x="290" y="190" width="190" height="10" rx="5" fill="#3fb8a0"/>
+    <text class="mono" x="290" y="52" font-size="12" letter-spacing="2" fill="#9aa6d6">COLETA DE DADOS</text>
+    <text class="sans" x="290" y="112" font-size="48" font-weight="700" fill="#ffffff" letter-spacing="-1">40 → 2</text>
+    <text class="sans" x="290" y="140" font-size="14" fill="#9aa6d6">minutos por etapa, agora</text>
+    <text class="sans" x="290" y="160" font-size="14" fill="#9aa6d6">sem trabalho manual</text>
+    <rect x="290" y="190" width="190" height="10" rx="5" fill="#2a3366"/>
+    <rect class="shrink" x="290" y="190" width="190" height="10" rx="5" fill="#3ddc97"/>
   </g>
 
   <!-- 3: medidas -->
   <g class="rise t3">
-    <text class="mono" x="540" y="52" font-size="12" letter-spacing="2" fill="#9b8c7e">PAINEL EXECUTIVO</text>
-    <text class="sans" x="540" y="112" font-size="48" font-weight="700" fill="#efe6dc" letter-spacing="-1">400+</text>
-    <text class="sans" x="540" y="140" font-size="14" fill="#9b8c7e">medidas em DAX, ligadas</text>
-    <text class="sans" x="540" y="160" font-size="14" fill="#9b8c7e">direto ao banco corporativo</text>
-    <g fill="#ff9a3c">
+    <text class="mono" x="540" y="52" font-size="12" letter-spacing="2" fill="#9aa6d6">PAINEL EXECUTIVO</text>
+    <text class="sans" x="540" y="112" font-size="48" font-weight="700" fill="#ffffff" letter-spacing="-1">400+</text>
+    <text class="sans" x="540" y="140" font-size="14" fill="#9aa6d6">medidas em DAX, ligadas</text>
+    <text class="sans" x="540" y="160" font-size="14" fill="#9aa6d6">direto ao banco corporativo</text>
+    <g fill="#ff8a3d">
       <circle class="dot" style="animation-delay:1.0s" cx="546" cy="200" r="5"/><circle class="dot" style="animation-delay:1.1s" cx="566" cy="200" r="5"/>
       <circle class="dot" style="animation-delay:1.2s" cx="586" cy="200" r="5"/><circle class="dot" style="animation-delay:1.3s" cx="606" cy="200" r="5"/>
       <circle class="dot" style="animation-delay:1.4s" cx="626" cy="200" r="5"/><circle class="dot" style="animation-delay:1.5s" cx="646" cy="200" r="5"/>
@@ -53,11 +53,11 @@
 
   <!-- 4: alcance -->
   <g class="rise t4">
-    <text class="mono" x="790" y="52" font-size="12" letter-spacing="2" fill="#9b8c7e">EM PRODUÇÃO</text>
-    <text class="sans" x="790" y="112" font-size="48" font-weight="700" fill="#efe6dc" letter-spacing="-1">50</text>
-    <text class="sans" x="790" y="140" font-size="14" fill="#9b8c7e">municípios e mais de 60</text>
-    <text class="sans" x="790" y="160" font-size="14" fill="#9b8c7e">usuários ativos no app</text>
-    <rect x="790" y="190" width="170" height="10" rx="5" fill="#2c2119"/>
-    <rect class="grow" x="790" y="190" width="170" height="10" rx="5" fill="#ff9a3c"/>
+    <text class="mono" x="790" y="52" font-size="12" letter-spacing="2" fill="#9aa6d6">EM PRODUÇÃO</text>
+    <text class="sans" x="790" y="112" font-size="48" font-weight="700" fill="#ffffff" letter-spacing="-1">50</text>
+    <text class="sans" x="790" y="140" font-size="14" fill="#9aa6d6">municípios e mais de 60</text>
+    <text class="sans" x="790" y="160" font-size="14" fill="#9aa6d6">usuários ativos no app</text>
+    <rect x="790" y="190" width="170" height="10" rx="5" fill="#2a3366"/>
+    <rect class="grow" x="790" y="190" width="170" height="10" rx="5" fill="#ff8a3d"/>
   </g>
 </svg>

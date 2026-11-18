@@ -8,15 +8,15 @@
     @keyframes blink { 50% { opacity: 0; } }
     @media (prefers-reduced-motion: reduce) { * { animation: none !important; opacity: 1 !important; transform: none !important; } }
   </style>
-  <rect width="1000" height="250" rx="18" fill="#0f0b08"/>
-  <rect x="0.5" y="0.5" width="999" height="249" rx="18" fill="none" stroke="#2c2119"/>
-  <circle cx="36" cy="32" r="6" fill="#2c2119"/><circle cx="58" cy="32" r="6" fill="#2c2119"/><circle cx="80" cy="32" r="6" fill="#2c2119"/>
-  <text class="mono" x="500" y="37" text-anchor="middle" font-size="12" fill="#9b8c7e">terminal simulado</text>
+  <rect width="1000" height="250" rx="20" fill="#0c1230"/>
+  <rect x="0.5" y="0.5" width="999" height="249" rx="20" fill="none" stroke="#2a3366"/>
+  <circle cx="36" cy="32" r="6" fill="#2a3366"/><circle cx="58" cy="32" r="6" fill="#2a3366"/><circle cx="80" cy="32" r="6" fill="#2a3366"/>
+  <text class="mono" x="500" y="37" text-anchor="middle" font-size="12" fill="#9aa6d6">terminal simulado</text>
 
-  <text class="mono ln l1" x="40" y="86" fill="#efe6dc"><tspan fill="#ff9a3c">$</tspan> bryan --status</text>
-  <text class="mono ln l2" x="40" y="124" fill="#9b8c7e">processo ........... <tspan fill="#efe6dc">entendido primeiro</tspan></text>
-  <text class="mono ln l3" x="40" y="152" fill="#9b8c7e">indicador .......... <tspan fill="#efe6dc">apontando onde agir</tspan></text>
-  <text class="mono ln l4" x="40" y="180" fill="#9b8c7e">automação .......... <tspan fill="#efe6dc">rodando enquanto eu tomo café</tspan></text>
-  <text class="mono ln l5" x="40" y="208" fill="#9b8c7e">próximo passo ...... <tspan fill="#3fb8a0">MBA em Data Science e Analytics (03/2027)</tspan></text>
-  <rect class="blink" x="40" y="222" width="9" height="3" fill="#ff9a3c"/>
+  <text class="mono ln l1" x="40" y="86" fill="#ffffff"><tspan fill="#ff8a3d">$</tspan> bryan --status</text>
+  <text class="mono ln l2" x="40" y="124" fill="#9aa6d6">processo ........... <tspan fill="#ffffff">entendido primeiro</tspan></text>
+  <text class="mono ln l3" x="40" y="152" fill="#9aa6d6">indicador .......... <tspan fill="#ffffff">apontando onde agir</tspan></text>
+  <text class="mono ln l4" x="40" y="180" fill="#9aa6d6">automação .......... <tspan fill="#ffffff">rodando enquanto eu tomo café</tspan></text>
+  <text class="mono ln l5" x="40" y="208" fill="#9aa6d6">próximo passo ...... <tspan fill="#3ddc97">MBA em Data Science e Analytics (03/2027)</tspan></text>
+  <rect class="blink" x="40" y="222" width="9" height="3" fill="#ff8a3d"/>
 </svg>
