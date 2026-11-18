@@ -31,7 +31,7 @@ Toda cidade precisa de uma equipe. A minha anda por aí lá em cima, e cada um t
 
 ## 🏆 Quando eles trabalham juntos
 
-<img src="assets/numbers.svg" alt="R$ 7 milhões em ganhos, coleta de 40 para 2 minutos, mais de 400 medidas em DAX, 50 municípios e mais de 60 usuários" width="100%"/>
+<img src="assets/numeros.svg" alt="R$ 7 milhões em ganhos, coleta de 40 para 2 minutos, mais de 400 medidas em DAX, 50 municípios e mais de 60 usuários" width="100%"/>
 
 E tem mais: evitei uma contratação externa (economia estimada de **R$ 200 mil**) ao construir por conta própria a solução de indicadores em Power BI, e fui usuário-chave numa certificação de qualidade automotiva que abriu as portas de uma montadora como cliente.
 
@@ -41,7 +41,7 @@ E tem mais: evitei uma contratação externa (economia estimada de **R$ 200 mil*
 
 Exemplos fictícios, só para mostrar como a gente pensa por aqui.
 
-<img src="assets/terminal.svg" alt="Terminal simulado com o status do Bryan" width="100%"/>
+<img src="assets/terminal-agents.svg" alt="Terminal simulado com o status do Bryan" width="100%"/>
 
 <details>
 <summary>🔎 <b>Sqli:</b> primeiro a gente ataca o que mais dói</summary>
