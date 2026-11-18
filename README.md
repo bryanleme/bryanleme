@@ -102,7 +102,6 @@ function Invoke-AutomacaoSegura {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bryanleme&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=bryanleme&theme=tokyonight&hide_border=true" alt="Sequência de contribuições"/>
 
 <br/>
